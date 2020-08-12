@@ -1,5 +1,4 @@
 #!/usr/bin/python
-#VINCENZO CAVALLO
 
 #Librerie API importate:
 from mininet.net import Mininet
